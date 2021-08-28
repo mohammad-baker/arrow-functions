@@ -204,3 +204,4 @@ console.log(joe.scopeArrow());
 // prototype arow functio function will consol joe array
 // 3. Explain why "this" is different when an arrow function is used.
 // because it continuse and can be difiend
+//
