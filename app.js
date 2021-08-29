@@ -199,9 +199,9 @@ console.log(joe.scopeArrow());
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-//prototype function will consol joe array
+//for all constructer function (student)
 // 2. What is "this" when joe.scopeArrow() is invoked?
-// prototype arow functio function will consol joe array
+// prototype arow functio function will consol joe array it for all constructer function (student)
 // 3. Explain why "this" is different when an arrow function is used.
-// because it continuse and can be difiend
+// because it continuse and can be difiend and we should use arrow to have this referise to some object
 //
